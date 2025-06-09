@@ -5,7 +5,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 Try running some of the following tasks:
 
 # 1. Clone Repository
-git clone https://github.com/siddhikarathore/Evoting-dapp.git
+git clone https://github.com/siddhikarathore/Evoting-dapp.git         
 cd evoting-dapp
 
 # 2. Install Dependencies
